@@ -15,7 +15,10 @@ Now you can use the MySQL command line
 To connect to your database
 
 ```
-connect your_database_name
+connect your_database_name 
+
+use demodata
+
 ```
 
 To import your database
