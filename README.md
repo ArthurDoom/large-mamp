@@ -16,9 +16,12 @@ To connect to your database
 
 ```
 connect your_database_name 
+```
 
+or
+
+```
 use demodata
-
 ```
 
 To import your database
